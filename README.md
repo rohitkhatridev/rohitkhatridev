@@ -5,6 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Full-Stack+Engineer;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=khatri-rohit&label=Profile%20views&color=0e75b6&style=flat" alt="intojhanurag" /> 
+</p>
 
 <!--
 **rohitkhatridev/rohitkhatridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
